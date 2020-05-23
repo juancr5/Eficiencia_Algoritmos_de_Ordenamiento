@@ -3,8 +3,8 @@
 
 Eficienncia de los Siguintes Algoritmos En Java:
 
-*Metodo Burbuja.
-*Ordenamiento Por Inserccion.
-*Ordenamiento Por Selección.
-*Ordenamiento Quicksort.
-*Ordenamiento Heap Sort.
+1. Metodo Burbuja.
+2. Ordenamiento Por Inserccion.
+3. Ordenamiento Por Selección.
+4. Ordenamiento Quicksort.
+5. Ordenamiento Heap Sort.
