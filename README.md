@@ -1,7 +1,6 @@
 # Eficiencia_Algoritmos_de_Ordenamiento
 
-
-Eficienncia de los Siguintes Algoritmos En Java:
+Eficiencia de los Siguintes Algoritmos En Java:
 
 1. Metodo Burbuja.
 2. Ordenamiento Por Inserccion.
